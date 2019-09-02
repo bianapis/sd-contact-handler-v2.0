@@ -1,0 +1,11 @@
+{
+  "sessionExecuteRecordReference" : "SERR757663",
+  "executeResponseRecord" : {},
+  "sessionExecuteActionTaskRecord" : {},
+  "customerContactOperatingSessionInstanceRecord" : {
+    "customerContactRecord" : {
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus"
+    }
+  },
+  "sessionExecuteActionTaskReference" : "CCOSEATR758673"
+}

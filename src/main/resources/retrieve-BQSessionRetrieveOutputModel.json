@@ -1,0 +1,40 @@
+{
+  "sessionInstanceRecord" : {
+    "sessionResult" : "sessionResult",
+    "sessionTaskRecord" : {}
+  },
+  "sessionRetrieveActionTaskReference" : "CCOSRATR734911",
+  "sessionRetrieveActionTaskRecord" : {},
+  "sessionInstanceReport" : {
+    "sessionInstanceReportParameters" : "sessionInstanceReportParameters",
+    "sessionInstanceReport" : {},
+    "sessionInstanceReportType" : "sessionInstanceReportType",
+    "sessionInstanceReportRecord" : {}
+  },
+  "customerContactOperatingSessionInstanceRecord" : {
+    "customerContactRecord" : {
+      "customerContactRecordResult" : "customerContactRecordResult",
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "774923",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "761737",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "763607"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "700402",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection",
+      "customerContactRecordDuration" : "customerContactRecordDuration"
+    }
+  },
+  "sessionInstanceAnalysis" : {
+    "sessionInstanceAnalysisReport" : {},
+    "sessionInstanceAnalysisReportType" : "sessionInstanceAnalysisReportType",
+    "sessionInstanceAnalysisRecord" : {},
+    "sessionInstanceAnalysisParameters" : "sessionInstanceAnalysisParameters"
+  },
+  "sessionRetrieveActionResponse" : "sessionRetrieveActionResponse"
+}

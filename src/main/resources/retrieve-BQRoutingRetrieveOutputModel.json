@@ -1,0 +1,39 @@
+{
+  "routingInstanceRecord" : {
+    "routingTaskRecord" : {}
+  },
+  "routingRetrieveActionTaskReference" : "RRATR767154",
+  "routingRetrieveActionResponse" : "routingRetrieveActionResponse",
+  "routingRetrieveActionTaskRecord" : {},
+  "routingInstanceAnalysis" : {
+    "routingInstanceAnalysisRecord" : {},
+    "routingInstanceAnalysisReportType" : "routingInstanceAnalysisReportType",
+    "routingInstanceAnalysisReport" : {},
+    "routingInstanceAnalysisParameters" : "routingInstanceAnalysisParameters"
+  },
+  "routingInstanceReport" : {
+    "routingInstanceReportRecord" : {},
+    "routingInstanceReport" : {},
+    "routingInstanceReportType" : "routingInstanceReportType",
+    "routingInstanceReportParameters" : "routingInstanceReportParameters"
+  },
+  "customerContactOperatingSessionInstanceRecord" : {
+    "eBranchOperatingSessionReference" : "792520",
+    "customerContactRecordReference" : "732570",
+    "customerContactRecord" : {
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "769202"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "750613",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+    },
+    "advancedVoiceServiceOperatingSessionReference" : "755114",
+    "customerContactInboundorOutboundIndicator" : "customerContactInboundorOutboundIndicator"
+  }
+}

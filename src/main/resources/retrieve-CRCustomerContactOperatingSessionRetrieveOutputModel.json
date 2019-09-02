@@ -1,0 +1,38 @@
+{
+  "customerContactOperatingSessionRetrieveActionTaskReference" : "CCOSRATR750141",
+  "customerContactOperatingSessionRetrieveActionResponse" : "customerContactOperatingSessionRetrieveActionResponse",
+  "customerContactOperatingSessionInstanceAnalysis" : {
+    "customerContactOperatingSessionInstanceAnalysisReportType" : "customerContactOperatingSessionInstanceAnalysisReportType",
+    "customerContactOperatingSessionInstanceAnalysisData" : "customerContactOperatingSessionInstanceAnalysisData",
+    "customerContactOperatingSessionInstanceAnalysisReport" : {}
+  },
+  "customerContactOperatingSessionRetrieveActionTaskRecord" : {},
+  "customerContactOperatingSessionInstanceReportRecord" : {
+    "customerContactOperatingSessionInstanceReportData" : "customerContactOperatingSessionInstanceReportData",
+    "customerContactOperatingSessionInstanceReport" : {},
+    "customerContactOperatingSessionInstanceReportType" : "customerContactOperatingSessionInstanceReportType"
+  },
+  "customerContactOperatingSessionInstanceRecord" : {
+    "eBranchOperatingSessionReference" : "703873",
+    "customerContactRecordReference" : "737213",
+    "customerContactRecord" : {
+      "customerContactRecordResult" : "customerContactRecordResult",
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "705251",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "752288",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "723802"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "718247",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection",
+      "customerContactRecordDuration" : "customerContactRecordDuration"
+    },
+    "advancedVoiceServiceOperatingSessionReference" : "735179",
+    "customerContactInboundorOutboundIndicator" : "customerContactInboundorOutboundIndicator"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "authenticationInstanceAnalysis" : {
+    "authenticationInstanceAnalysisReportType" : "authenticationInstanceAnalysisReportType",
+    "authenticationInstanceAnalysisReport" : {},
+    "authenticationInstanceAnalysisParameters" : "authenticationInstanceAnalysisParameters",
+    "authenticationInstanceAnalysisRecord" : {}
+  },
+  "authenticationRetrieveActionTaskReference" : "ARATR776953",
+  "authenticationInstanceRecord" : {
+    "authenticationTaskRecord" : {}
+  },
+  "authenticationRetrieveActionTaskRecord" : {},
+  "customerContactOperatingSessionInstanceRecord" : {
+    "eBranchOperatingSessionReference" : "772888",
+    "customerContactRecordReference" : "722188",
+    "customerContactRecord" : {
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "739059"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "706091",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+    },
+    "advancedVoiceServiceOperatingSessionReference" : "736213",
+    "customerContactInboundorOutboundIndicator" : "customerContactInboundorOutboundIndicator"
+  },
+  "authenticationRetrieveActionResponse" : "authenticationRetrieveActionResponse",
+  "authenticationInstanceReport" : {
+    "authenticationInstanceReportParameters" : "authenticationInstanceReportParameters",
+    "authenticationInstanceReportType" : "authenticationInstanceReportType",
+    "authenticationInstanceReportRecord" : {},
+    "authenticationInstanceReport" : {}
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "historyInstanceReport" : {
+    "historyInstanceReportParameters" : "historyInstanceReportParameters",
+    "historyInstanceReport" : {},
+    "historyInstanceReportRecord" : {},
+    "historyInstanceReportType" : "historyInstanceReportType"
+  },
+  "historyInstanceAnalysis" : {
+    "historyInstanceAnalysisReportType" : "historyInstanceAnalysisReportType",
+    "historyInstanceAnalysisReport" : {},
+    "historyInstanceAnalysisRecord" : {},
+    "historyInstanceAnalysisParameters" : "historyInstanceAnalysisParameters"
+  },
+  "historyRetrieveActionTaskRecord" : {},
+  "historyRetrieveActionResponse" : "historyRetrieveActionResponse",
+  "historyRetrieveActionTaskReference" : "HRATR724323",
+  "customerContactOperatingSessionInstanceRecord" : {
+    "eBranchOperatingSessionReference" : "709409",
+    "customerContactRecordReference" : "769483",
+    "customerContactRecord" : {
+      "customerContactRecordResult" : "customerContactRecordResult",
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "739064",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "792227",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "759254"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "790484",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection",
+      "customerContactRecordDuration" : "customerContactRecordDuration"
+    },
+    "advancedVoiceServiceOperatingSessionReference" : "798298",
+    "customerContactInboundorOutboundIndicator" : "customerContactInboundorOutboundIndicator"
+  },
+  "historyInstanceRecord" : {
+    "historyTaskRecord" : {}
+  }
+}

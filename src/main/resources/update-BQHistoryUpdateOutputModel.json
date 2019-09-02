@@ -1,0 +1,31 @@
+{
+  "updateResponseRecord" : {},
+  "historyUpdateActionTaskRecord" : {},
+  "customerContactOperatingSessionInstanceRecord" : {
+    "eBranchOperatingSessionReference" : "735893",
+    "customerContactRecordReference" : "770449",
+    "customerContactRecord" : {
+      "customerContactRecordResult" : "customerContactRecordResult",
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "780747",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "736455",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "792945"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "742172",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection",
+      "customerContactRecordDuration" : "customerContactRecordDuration"
+    },
+    "advancedVoiceServiceOperatingSessionReference" : "766872",
+    "customerContactInboundorOutboundIndicator" : "customerContactInboundorOutboundIndicator"
+  },
+  "historyInstanceRecord" : {
+    "historyTaskRecord" : {}
+  },
+  "historyUpdateActionTaskReference" : "HUATR763142"
+}

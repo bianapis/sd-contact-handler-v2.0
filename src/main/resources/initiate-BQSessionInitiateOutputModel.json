@@ -1,0 +1,22 @@
+{
+  "sessionInstanceRecord" : {
+    "sessionResult" : "sessionResult",
+    "sessionTaskRecord" : {}
+  },
+  "sessionInitiateActionRecord" : {},
+  "sessionInitiateActionReference" : "CCOSIAR757182",
+  "sessionInstanceStatus" : "sessionInstanceStatus",
+  "customerContactOperatingSessionInstanceRecord" : {
+    "customerContactRecord" : {
+      "customerContactRecordResult" : "customerContactRecordResult",
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "710478"
+      },
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordDuration" : "customerContactRecordDuration"
+    }
+  },
+  "sessionInstanceReference" : "CCOSIR712860"
+}
