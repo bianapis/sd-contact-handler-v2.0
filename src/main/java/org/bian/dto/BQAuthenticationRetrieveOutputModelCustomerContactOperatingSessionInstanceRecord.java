@@ -42,6 +42,7 @@ public class BQAuthenticationRetrieveOutputModelCustomerContactOperatingSessionI
    * @return eBranchOperatingSessionReference
   **/
 
+  @JsonProperty("eBranchOperatingSessionReference")
   public String getEBranchOperatingSessionReference() {
     return eBranchOperatingSessionReference;
   }
